@@ -235,6 +235,7 @@
     <h1><?php echo $titulo; ?></h1>
     <p><?php echo $subtitulo; ?></p>
     <hr/>
+    <h1>Ontem</h1>
 
     <!--FILTRO DE NOME DOS LIVROS, PERCORRE LIVROS EM BUSCA DO NOME ESPECIFICO 
     <ul>
