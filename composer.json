@@ -1,0 +1,9 @@
+{
+    "name": "leandro/portifolio",
+    "autoload": {
+        "psr-4": {
+            "Leandro\\Portifolio\\": "src/"
+        }
+    },
+    "require": {}
+}

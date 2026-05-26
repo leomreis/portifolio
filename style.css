@@ -1,0 +1,28 @@
+div, header, footer, section{
+    /* height: 20px; */
+    border: 2px red dashed;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+header > div {
+    background-color : blueviolet;
+}
+
+section + section {
+    background-color: black;
+}
+body{
+    background-color: aquamarine;
+}
+
+.texto {
+    font-family: cursive;
+    font-size: smaller;
+    font-weight: bold;
+    color: red;
+}
+
+.logo {
+    background-color: yellow;
+}
